@@ -1,0 +1,189 @@
+{
+    "editor.guides.bracketPairs": true,
+    "editor.matchBrackets": "never",
+    "workbench.colorTheme": "Mayukai Alucard",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "workbench.iconTheme": "material-icon-theme",
+    "npm.keybindingsChangedWarningShown": true,
+    "tabnine.experimentalAutoImports": true,
+    "files.autoSave": "afterDelay",
+    "editor.accessibilitySupport": "off",
+    "editor.minimap.enabled": false,
+    "workbench.list.smoothScrolling": true,
+    "window.titleBarStyle": "native",
+    "workbench.trustedDomains.promptInTrustedWorkspace": true,
+    "blade.format.enable": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "[dart]": {
+        "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "boot-java.rewrite.reconcile": true,
+    "sonarlint.rules": {
+        "java:S3655": {
+            "level": "off"
+        },
+        "java:S4684": {
+            "level": "off"
+        },
+        "java:S106": {
+            "level": "off"
+        },
+        "java:S112": {
+            "level": "off"
+        },
+        "java:S4144": {
+            "level": "off"
+        },
+        "java:S1135": {
+            "level": "off"
+        },
+        "java:S1168": {
+            "level": "off"
+        },
+        "java:S115": {
+            "level": "off"
+        },
+        "java:S3740": {
+            "level": "off"
+        },
+        "java:S2275": {
+            "level": "off"
+        },
+        "java:S1874": {
+            "level": "off"
+        },
+        "java:S3305": {
+            "level": "off"
+        },
+        "java:S1611": {
+            "level": "off"
+        },
+        "javascript:S6440": {
+            "level": "off"
+        },
+        "python:S2208": {
+            "level": "off"
+        },
+        "Web:UnsupportedTagsInHtml5Check": {
+            "level": "off"
+        },
+        "python:S2115": {
+            "level": "off"
+        },
+        "Web:TableWithoutCaptionCheck": {
+            "level": "off"
+        },
+        "javascript:S1874": {
+            "level": "off"
+        },
+        "Web:S1827": {
+            "level": "off"
+        },
+        "java:S2201": {
+            "level": "off"
+        },
+        "java:S1192": {
+            "level": "off"
+        },
+        "java:S5411": {
+            "level": "off"
+        },
+        "java:S5361": {
+            "level": "off"
+        },
+        "java:S2147": {
+            "level": "off"
+        },
+        "java:S108": {
+            "level": "off"
+        },
+        "java:S2387": {
+            "level": "off"
+        },
+        "java:S1488": {
+            "level": "off"
+        },
+        "java:S2111": {
+            "level": "off"
+        },
+        "java:S1948": {
+            "level": "off"
+        },
+        "javascript:S6478": {
+            "level": "off"
+        },
+        "java:S1854": {
+            "level": "off"
+        },
+        "java:S4449": {
+            "level": "off"
+        },
+        "secrets:S6334": {
+            "level": "off"
+        },
+        "javascript:S6438": {
+            "level": "off"
+        },
+        "javascript:S6477": {
+            "level": "off"
+        }
+    },
+    "redhat.telemetry.enabled": true,
+    "bracket-pair-colorizer-2.activeScopeCSS": [
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}",
+        "opacity: 0.5"
+    ],
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "bracket-pair-colorizer-2.highlightActiveScope": true,
+    "bracket-pair-colorizer-2.excludedLanguages": [],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "errorLens.lintFilePaths": {
+        "eslint": [
+            "**/*.eslintrc.{js,cjs,yaml,yml,json}",
+            "**/*package.json"
+        ],
+        "Stylelint": [
+            "**/*.stylelintrc",
+            "**/*.stylelintrc.{cjs,js,json,yaml,yml}",
+            "**/*stylelint.config.{cjs,js}",
+            "**/*package.json"
+        ]
+    },
+    "spring-boot.ls.problem.boot2.JAVA_LAMBDA_DSL": "IGNORE",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "spring-boot.ls.problem.boot2.JAVA_AUTOWIRED_CONSTRUCTOR": "IGNORE",
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "dart.previewFlutterUiGuides": true,
+    "window.zoomLevel": -1,
+}
